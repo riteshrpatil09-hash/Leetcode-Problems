@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
