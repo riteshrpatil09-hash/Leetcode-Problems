@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 ## Monotonic Stack
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
