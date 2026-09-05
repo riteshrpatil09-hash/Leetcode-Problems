@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0292-nim-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -85,4 +86,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0015-3sum) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
