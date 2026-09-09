@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [2119-a-number-after-a-double-reversal](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0316-remove-duplicate-letters](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0412-fizz-buzz](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0292-nim-game) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
