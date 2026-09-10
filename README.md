@@ -124,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
