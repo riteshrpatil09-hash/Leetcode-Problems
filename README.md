@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -92,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0016-3sum-closest) |
 ## Brainteaser
 |  |
 | ------- |
