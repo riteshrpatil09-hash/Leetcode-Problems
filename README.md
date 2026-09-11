@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [2119-a-number-after-a-double-reversal](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
