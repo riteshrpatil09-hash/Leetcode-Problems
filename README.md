@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0704-binary-search) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 ## Brainteaser
 |  |
@@ -132,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0176-second-highest-salary) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
