@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0704-binary-search) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Greedy
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/riteshrpatil09-hash/Leetcode-Problems/tree/master/0682-baseball-game) |
 ## Database
 |  |
 | ------- |
